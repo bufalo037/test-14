@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro",
+    "category": "Electronics",
+    "price": 2499
+  },
+  {
+    "id": 2,
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 399
+  },
+  {
+    "id": 3,
+    "name": "Ultra‑Wide Monitor",
+    "category": "Electronics",
+    "price": 999
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Chair",
+    "category": "Furniture",
+    "price": 799
+  },
+  {
+    "id": 5,
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 1199
+  },
+  {
+    "id": 1758154937348,
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299
+  },
+  {
+    "id": 1758154959838,
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299
+  },
+  {
+    "id": 1758204208836,
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "createdAt": "2025-09-18T14:03:28.836Z"
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758204873300
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758204880683
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758204884876
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1599,
+    "id": 1758204901992
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215504824
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215505761
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215506679
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215507619
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215508580
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215509504
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215510402
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215511274
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215689167
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215689973
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215690745
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215691595
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215692360
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215693075
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215693857
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215694794
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215695590
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215696293
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215697048
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215697835
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215698561
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215699384
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215700228
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758215701000
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758216437945
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758219309657
+  },
+  {
+    "name": "Standing Desk2",
+    "category": "Furniture",
+    "price": 1299,
+    "id": 1758222107540
+  }
+]
